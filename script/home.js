@@ -1,6 +1,6 @@
 export function homeSectionFunctionality() {
   // display Skills
-  const mySkills = ["Programmer", "Tiktoker"];
+  const mySkills = ["Programmer Pemula", "Tiktoker"];
   let stringIndex = 0;
   let arrayIndex = 0;
   let isAdding = true;
@@ -61,3 +61,4 @@ export function homeSectionFunctionality() {
     });
   });
 }
+
