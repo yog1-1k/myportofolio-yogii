@@ -39,7 +39,7 @@ export function RenderContent(){
           href="https://www.youtube.com/channel/UCg00CkhjDLpgZjhm4EvCpGA">
           <img src="images and icons/icons/youtube.png" alt="YT icon" />
         </a>
-        <a class="social-media" target="_blank" href="https://www.instagram.com/yogii_andriansahh/">
+        <a class="social-media" target="_blank" href="https://www.instagram.com/yogii_zy/">
           <img src="images and icons/icons/instagram (1).png" alt="insta icon" />
         </a>
       </div>
@@ -153,3 +153,4 @@ export function RenderContent(){
 
   const contactSection = document.querySelector('#contact-section').innerHTML = contactHTML;
 }
+
