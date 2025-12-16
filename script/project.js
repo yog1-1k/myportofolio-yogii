@@ -12,7 +12,7 @@ export function projectsSectionFunctionality(){
         image: 'project.gif',
         title: 'Aplikasi List Sederhana',
         description: 'Aplikasi List Tugas Sederhana Untuk Mencatat Tugas Harian Kamu, Note:Jangan Di Close Nanti Tugasmu Hilang haha.',
-        role: 'Designer',
+        role: 'Aplikasi',
         clientSatisfaction: '95%',
         link:'https://yog1-1k.github.io/apk_list_tugas_sederhana/'
     },
@@ -73,3 +73,4 @@ export function projectsSectionFunctionality(){
 
 
 }
+
