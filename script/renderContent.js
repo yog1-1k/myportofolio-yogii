@@ -63,7 +63,7 @@ export function RenderContent(){
 
    // ----------------RENDERING ABOUT SECTION-------------------//
    const aboutDetails = {
-    myPhoto: 'mk.jpg',
+    myPhoto: 'cut.jpg',
     aboutMeFirstPrgrph: `Hallo, Aku Yogi, aku adalah seorang mahasiswa D3 Politeknik Negeri Ketapang, Aku berasal dari SMAN 1 Simpang Dua, aku kelahiran 2005 (Gen Z), sekarang aku berada di semester 5 dan sekarang sedang magang di Kominfo.`,
     aboutMeSecondPrgrph: `Selain Kuliah, aku juga punya kesibukan yaitu ngoding, dan aku juga punya hobi bermain futsal dan bulu tangkis, aku juga bekerja sebagai kurir dikala waktu libur semester untuk menambah pendapatanku sendiri.`
    }
@@ -102,10 +102,13 @@ export function RenderContent(){
       { iconName: "music transcription.png", skillName: "Music Transcription" },
       { iconName: "html.png", skillName: "HTML" },
       { iconName: "CSS.png", skillName: "CSS" },
-      { iconName: "java-script.png", skillName: "JavaScript" },
+      { iconName: "canva.png", skillName: "Canva" },
       { iconName: "Git.png", skillName: "Git" },
       { iconName: "github (2).png", skillName: "GitHub" },
       { iconName: "visual-studio.png", skillName: "VScode" },
+      { iconName: "corell.png", skillName: "CorelDraw" },
+      { iconName: "capcut.png", skillName: "CapCut" },
+      { iconName: "Laravel-Logo.wine.png", skillName: "Laravel" },
     ];
 
     const skillHTML = `
