@@ -19,7 +19,7 @@ export function projectsSectionFunctionality(){
     {
         image: 'project.gif',
         title: 'Aplikasi Kalkulator Sederhana',
-        description: 'Aplikasi List Tugas Sederhana Untuk Mencatat Tugas Harian Kamu, Note:Jangan Di Close Nanti Tugasmu Hilang haha.',
+        description: 'Aplikasi Kalkulator Sederhana.',
         role: 'Aplikasi',
         clientSatisfaction: '95%',
         link:'https://yog1-1k.github.io/kalkulator/'
@@ -81,5 +81,6 @@ export function projectsSectionFunctionality(){
 
 
 }
+
 
 
