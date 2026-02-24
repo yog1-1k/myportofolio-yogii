@@ -26,7 +26,7 @@ export function projectsSectionFunctionality(){
     },
     {
         image: 'project.gif',
-        title: 'Aplikasi Kalkulator Sederhana',
+        title: 'Kalkulator Sederhana',
         description: 'Aplikasi kalkulator Sederhana dengan Tampilan Sederhana Namun Nyaman Dimata.',
         role: 'Aplikasi',
         clientSatisfaction: 'Belum Ada',
@@ -81,6 +81,7 @@ export function projectsSectionFunctionality(){
 
 
 }
+
 
 
 
