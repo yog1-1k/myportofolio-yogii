@@ -27,18 +27,10 @@ export function projectsSectionFunctionality(){
     {
         image: 'project.gif',
         title: 'Aplikasi Kalkulator Sederhana',
-        description: 'Aplikasi Kalkulator Sederhana.',
+        description: 'Aplikasi kalkulator Sederhana dengan Tampilan Sederhana Namun Nyaman Dimata.',
         role: 'Aplikasi',
-        clientSatisfaction: '95%',
-        link:'https://yog1-1k.github.io/kalkulator/'
-    },
-    {
-        image: 'project.gif',
-        title: 'Semangat Sekali Scrollnya',
-        description: 'Yah Sebenarnya Ada Banyak Lagi Project Saya Yang Lain, Tapi Belum Sempat Dimasukkan.Next Kita Masukkan Ya😁.',
-        role: 'Website',
         clientSatisfaction: 'Belum Ada',
-        link:''
+        link:'https://yog1-1k.github.io/kalkulator/'
     }
   ];
 
@@ -89,6 +81,7 @@ export function projectsSectionFunctionality(){
 
 
 }
+
 
 
 
