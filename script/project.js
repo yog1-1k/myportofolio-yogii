@@ -10,6 +10,14 @@ export function projectsSectionFunctionality(){
     },
     {
         image: 'project.gif',
+        title: 'Game Pria Sawit',
+        description: 'Ayo Nyawit.',
+        role: 'Game',
+        clientSatisfaction: '95%',
+        link: 'https://yog1-1k.github.io/Game-Pria-Sawit/'
+    },
+    {
+        image: 'project.gif',
         title: 'Aplikasi List Sederhana',
         description: 'Aplikasi List Tugas Sederhana Untuk Mencatat Tugas Harian Kamu, Note:Jangan Di Close Nanti Tugasmu Hilang haha.',
         role: 'Aplikasi',
@@ -81,6 +89,7 @@ export function projectsSectionFunctionality(){
 
 
 }
+
 
 
 
